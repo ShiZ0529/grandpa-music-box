@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">爷爷的音乐盒</string>
+    <string name="btn_play">播放</string>
+    <string name="btn_pause">暂停</string>
+    <string name="btn_prev">上一首</string>
+    <string name="btn_next">下一首</string>
+    <string name="btn_pitch_up">升调 ＋</string>
+    <string name="btn_pitch_down">降调 －</string>
+    <string name="btn_reset_pitch">原调</string>
+    <string name="btn_add_song">＋ 添加歌曲</string>
+    <string name="btn_help">使用帮助</string>
+    <string name="btn_delete">删除</string>
+    <string name="playlist_title">播放列表</string>
+    <string name="empty_playlist_hint">还没有歌曲，从微信“用其他应用打开”分享到这里，或点上面的按钮添加</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 高对比、暖色调，适合老人观看 -->
+    <color name="bgCream">#FFF8E1</color>
+    <color name="primaryGreen">#2E7D32</color>
+    <color name="darkGreen">#1B5E20</color>
+    <color name="accentOrange">#E65100</color>
+    <color name="textDark">#212121</color>
+    <color name="textGrey">#616161</color>
+    <color name="white">#FFFFFF</color>
+    <color name="borderGrey">#BDBDBD</color>
+    <color name="ic_launcher_bg">#F57C00</color>
+</resources>
